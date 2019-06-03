@@ -1,0 +1,27 @@
+
+.entries {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    opacity: 0.5;
+    width: 900px;
+    padding-left: 20px;
+    line-height: 1.5;
+}
+
+.submission {
+    color: #f7c08a;
+    padding: 10px;
+}
+
+#nameentry {
+    width: 100%;
+    
+}
+
+#email {
+    width: 100%;
+}
+
+#message {
+    width: 100%;
+}
